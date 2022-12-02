@@ -7,15 +7,14 @@ Using the non-dimensional data from table 6.1 in the textbook, along with data i
   Dimensional Derivatives
 <p\>
 
-.center[
+<center>
 | | **X [N]** | **Z [N]** | **M [m $\cdot$ N]** |
 |:---:|:---:|:---:|:---:|
 | u [$\frac{m}{s}$]       | $-2.209*10^3$ |  $-2.350*10^4$  |  $1.776*10^4$   |
 | w [$\frac{m}{s}$]       |  $4.486*10^3$ |  $-1.006*10^5$  |  $-1.742*10^5$  |
 | q [$\frac{m}{s}$]       |  0            |  $-5.0404*10^5$ |  $-1.695*10^7$  |
 | $\dot{w} [\frac{m}{s}$] |  0            |  $1.891*10^3$   |  $-1.685*10^4$  |
-
-]
+</center>
 
 
 ## Problem 2:
