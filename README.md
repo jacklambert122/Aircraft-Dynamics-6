@@ -189,5 +189,6 @@ $\Delta \theta = 0.1 [rad]$:<br/> <br/>
 
 <img src="./Images/SP_theta.jpg" />
 
+<br/>
 
-After analyzing the plots it can be seen that the short phase mode is more pronounced for perturbations in $/Delta w^E$ and $\Delta q$, where the phugoid mode is nearly none existent for the state variables $\Delta w^E$ and $\Delta q$ and is largely diminished for $\Delta \theta$ . Perturbations in $\Delta u^E$ and $\theta$ had more pronounced phugoid modes as they system oscillates about trim for a much longer period of time. The short phase mode was still present for the state variables  $Delta w^E$ and $\Delta q$ in the case for a perturbation about $\Delta u^E$.
+After analyzing the plots it can be seen that the short phase mode is more pronounced for perturbations in $\Delta w^E$ and $\Delta q$, where the phugoid mode is nearly none existent for the state variables $\Delta w^E$ and $\Delta q$ and is largely diminished for $\Delta \theta$ . Perturbations in $\Delta u^E$ and $\theta$ had more pronounced phugoid modes as they system oscillates about trim for a much longer period of time. The short phase mode was still present for the state variables  $\Delta w^E$ and $\Delta q$ in the case for a perturbation about $\Delta u^E$.
