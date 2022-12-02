@@ -113,8 +113,8 @@ $$
 \end{vmatrix}
 = 
 \begin{vmatrix}
-\frac{M_q}{I_y} & \frac{U_0 M_w}{I_y}\\
-1 & 0\\
+\frac{M_q}{I_y} && \frac{U_0 M_w}{I_y}\\
+1 && 0\\
 \end{vmatrix}
 \begin{vmatrix}
 \Delta q \\
