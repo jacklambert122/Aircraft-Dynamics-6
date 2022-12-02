@@ -121,6 +121,7 @@ $$
 \Delta \theta\\
 \end{vmatrix}
 $$
+
 <br/>
 Solving for the eigenvalue of this homogeneous set 2x2 state space model for pitch motion using the relation, $det(\lambda I - A) = 0$, where I is the identity matrix and A is from the model. The corresponding eigenvalues are:
 <br/>
