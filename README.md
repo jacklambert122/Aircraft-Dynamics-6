@@ -104,7 +104,7 @@ $$
 
 ## Problem 4:
 When approximating the short period mode using the reduced order model, the simplified set of equations reduces to :
-<br/>
+
 
 $$
 \begin{vmatrix}
