@@ -151,8 +151,8 @@ $$
 No Perturbations:<br/> <br/>
 <img src="./Images/Phu_none.jpg" />
 
-
 $\Delta u = 10 [\frac{m}{s}]$:<br/> <br/>
+
 <img src="./Images/Phu_U.jpg" />
 
 $\Delta w = 10 [\frac{m}{s}]$:<br/> <br/>
