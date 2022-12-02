@@ -105,15 +105,14 @@ $$
 ## Problem 4:
 When approximating the short period mode using the reduced order model, the simplified set of equations reduces to :
 
-$$ {\left\lbrack \matrix{2 & 3 \cr 4 & 5} \right\rbrack} 
-* \left\lbrack \matrix{1 & 0 \cr 0 & 1} \right\rbrack
-= \left\lbrack \matrix{2 & 3 \cr 4 & 5} \right\rbrack
+$$
+\begin{vmatrix}
+\frac{M_q}{I_y} & \frac{U_0 M_w}{I_y}\\
+1 & 0\\
+\end{vmatrix}
 $$
 
-$${\left\lbrack \matrix{ \Delta \dot{q} \cr \Delta \dot{\theta} } \right\rbrack}
-= \left\lbrack \matrix{ \frac{M_q}{I_y} & \frac{U_0 M_w}{I_y} \cr \Delta \dot{\theta} } \right\rbrack
-* \left\lbrack \matrix{ \\Delta q \cr \Delta \theta } \right\rbrack
-$$
+
 
 <br/>
 Solving for the eigenvalue of this homogeneous set 2x2 state space model for pitch motion using the relation, $det(\lambda I - A) = 0$, where I is the identity matrix and A is from the model. The corresponding eigenvalues are:
